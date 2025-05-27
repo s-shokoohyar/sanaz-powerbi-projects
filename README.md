@@ -38,3 +38,6 @@ This dashboard provides a customer-centric perspective to identify high-value cl
 
 These dashboards are excellent examples of business intelligence applications that turn raw data into strategic insights. Each article includes **step-by-step explanations**, **visual storytelling techniques**, and **practical use cases**, showcasing Sanaz's skills in **data analysis, dashboard design, and strategic decision-making support**.
 
+## 🌐 Connect
+- [🔗 LinkedIn: Sanaz Shokoohyar](https://www.linkedin.com/in/sanaz-shokoohyar-2bb2245a/)  
+
